@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
-            /////////// Slide 11 ///////////
+            /////////// Slide 12 ///////////
 
             bool myBool = true;
             int myInt = 5;
