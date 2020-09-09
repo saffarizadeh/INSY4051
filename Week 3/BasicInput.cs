@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
-            /////////// Slide 14 ///////////
+            /////////// Slide 15 ///////////
 
             double hourlyRateOfService = 5.25;
             int numberOfHours;
