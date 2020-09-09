@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
-            /////////// Slide 8 ///////////
+            /////////// Slide 9 ///////////
 
             // Implicit conversion. A long can
             // hold any value an int can hold, and more!
