@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
-            /////////// Slide 9 ///////////
+            /////////// Slide 10 ///////////
 
             double x = 1234.7;
             int a;
