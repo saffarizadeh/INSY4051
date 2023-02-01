@@ -32,6 +32,7 @@ namespace AssignmentOne
         {
             Console.WriteLine("---Simple Average Calculator---");
             Console.WriteLine("Enter the first number:");
+            // try/catch block is optional
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the second number:");
             int b = Convert.ToInt32(Console.ReadLine());
