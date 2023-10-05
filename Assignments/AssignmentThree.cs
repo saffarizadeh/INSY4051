@@ -35,7 +35,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine($"{"Payment#", -15}{"Interest", -15}{"Principal", -15}{"Balance", -15}");
 
-            for (int i = 1; i <= n; i++)
+        for (int i = 1; i <= n; i++)
         {
             interest = balance * rate;
             principal = payment - interest;
